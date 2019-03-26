@@ -4578,6 +4578,7 @@ input, select, textarea {
 		-ms-transition: opacity 0.75s ease-in-out, -ms-transform 0.75s ease-in-out;
 		transition: opacity 0.75s ease-in-out, transform 0.75s ease-in-out;
 	}
+	
 
 		.spotlight.onload-image-fade-right .image img {
 			-moz-transition: opacity 0.75s ease-in-out;
@@ -4597,6 +4598,7 @@ input, select, textarea {
 		transform: translateX(-1rem);
 		opacity: 0;
 	}
+	
 
 		body.is-preload .spotlight.onload-image-fade-right .image img {
 			opacity: 0;
